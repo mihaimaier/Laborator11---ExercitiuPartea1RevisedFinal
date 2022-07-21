@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Laborator11 - Exercitiu/1.0.0": {
+        "runtime": {
+          "Laborator11 - Exercitiu.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Laborator11 - Exercitiu/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

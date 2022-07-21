@@ -1,0 +1,14 @@
+C:\Users\Iugkn\Desktop\C#.Net Course\Lab#11 - Arbori, Assemblies\Laborator11 - Exercitiu\Laborator11 - Exercitiu\bin\Debug\netcoreapp3.1\Laborator11 - Exercitiu.exe
+C:\Users\Iugkn\Desktop\C#.Net Course\Lab#11 - Arbori, Assemblies\Laborator11 - Exercitiu\Laborator11 - Exercitiu\bin\Debug\netcoreapp3.1\Laborator11 - Exercitiu.deps.json
+C:\Users\Iugkn\Desktop\C#.Net Course\Lab#11 - Arbori, Assemblies\Laborator11 - Exercitiu\Laborator11 - Exercitiu\bin\Debug\netcoreapp3.1\Laborator11 - Exercitiu.runtimeconfig.json
+C:\Users\Iugkn\Desktop\C#.Net Course\Lab#11 - Arbori, Assemblies\Laborator11 - Exercitiu\Laborator11 - Exercitiu\bin\Debug\netcoreapp3.1\Laborator11 - Exercitiu.runtimeconfig.dev.json
+C:\Users\Iugkn\Desktop\C#.Net Course\Lab#11 - Arbori, Assemblies\Laborator11 - Exercitiu\Laborator11 - Exercitiu\bin\Debug\netcoreapp3.1\Laborator11 - Exercitiu.dll
+C:\Users\Iugkn\Desktop\C#.Net Course\Lab#11 - Arbori, Assemblies\Laborator11 - Exercitiu\Laborator11 - Exercitiu\bin\Debug\netcoreapp3.1\Laborator11 - Exercitiu.pdb
+C:\Users\Iugkn\Desktop\C#.Net Course\Lab#11 - Arbori, Assemblies\Laborator11 - Exercitiu\Laborator11 - Exercitiu\obj\Debug\netcoreapp3.1\Laborator11 - Exercitiu.csproj.AssemblyReference.cache
+C:\Users\Iugkn\Desktop\C#.Net Course\Lab#11 - Arbori, Assemblies\Laborator11 - Exercitiu\Laborator11 - Exercitiu\obj\Debug\netcoreapp3.1\Laborator11 - Exercitiu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Iugkn\Desktop\C#.Net Course\Lab#11 - Arbori, Assemblies\Laborator11 - Exercitiu\Laborator11 - Exercitiu\obj\Debug\netcoreapp3.1\Laborator11 - Exercitiu.AssemblyInfoInputs.cache
+C:\Users\Iugkn\Desktop\C#.Net Course\Lab#11 - Arbori, Assemblies\Laborator11 - Exercitiu\Laborator11 - Exercitiu\obj\Debug\netcoreapp3.1\Laborator11 - Exercitiu.AssemblyInfo.cs
+C:\Users\Iugkn\Desktop\C#.Net Course\Lab#11 - Arbori, Assemblies\Laborator11 - Exercitiu\Laborator11 - Exercitiu\obj\Debug\netcoreapp3.1\Laborator11 - Exercitiu.csproj.CoreCompileInputs.cache
+C:\Users\Iugkn\Desktop\C#.Net Course\Lab#11 - Arbori, Assemblies\Laborator11 - Exercitiu\Laborator11 - Exercitiu\obj\Debug\netcoreapp3.1\Laborator11 - Exercitiu.dll
+C:\Users\Iugkn\Desktop\C#.Net Course\Lab#11 - Arbori, Assemblies\Laborator11 - Exercitiu\Laborator11 - Exercitiu\obj\Debug\netcoreapp3.1\Laborator11 - Exercitiu.pdb
+C:\Users\Iugkn\Desktop\C#.Net Course\Lab#11 - Arbori, Assemblies\Laborator11 - Exercitiu\Laborator11 - Exercitiu\obj\Debug\netcoreapp3.1\Laborator11 - Exercitiu.genruntimeconfig.cache
